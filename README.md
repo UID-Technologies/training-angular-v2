@@ -199,6 +199,8 @@ The project evolves every day as new Angular concepts are introduced.
 
 ## Hands-on Lab
 
+See **[labs/Module-01](labs/Module-01-Angular-Fundamentals-and-Architecture.md)** through **[labs/Module-03](labs/Module-03-Modern-Angular-Control-Flow.md)** for detailed exercises.
+
 * Install Angular CLI
 * Create Your First Angular 21 Application
 * Build a Multi-Component Employee Portal
@@ -542,20 +544,16 @@ Angular-21-Developer-Training
 
 │── README.md
 │
-├── presentations/
-│
-├── labs/
-│
-├── solutions/
-│
-├── source-code/
-│
-├── exercises/
-│
-├── assignments/
-│
-└── resources/
+├── presentations/     # 16 module slide decks (PDF)
+├── labs/              # 16 hands-on lab guides (one per module)
+├── solutions/         # Reference implementations (post-training)
+├── source-code/       # Starter/skeleton projects per day
+├── exercises/         # Short in-class exercises
+├── assignments/       # Take-home assignments
+└── resources/         # Mock API, cheatsheets, assets
 ```
+
+> **Labs:** Full exercise instructions are in [`labs/README.md`](labs/README.md) — 16 progressive labs aligned with each presentation module.
 
 ---
 

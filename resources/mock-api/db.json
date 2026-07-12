@@ -1,0 +1,65 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "email": "jane.doe@company.com",
+      "role": "Senior Engineer",
+      "department": "Engineering",
+      "status": "active",
+      "salary": 95000,
+      "hireDate": "2021-03-15"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "email": "john.smith@company.com",
+      "role": "Engineering Manager",
+      "department": "Engineering",
+      "status": "active",
+      "salary": 120000,
+      "hireDate": "2018-07-01"
+    },
+    {
+      "id": 3,
+      "name": "Maria Garcia",
+      "email": "maria.garcia@company.com",
+      "role": "HR Specialist",
+      "department": "HR",
+      "status": "active",
+      "salary": 72000,
+      "hireDate": "2020-11-20"
+    },
+    {
+      "id": 4,
+      "name": "David Chen",
+      "email": "david.chen@company.com",
+      "role": "Sales Representative",
+      "department": "Sales",
+      "status": "on-leave",
+      "salary": 68000,
+      "hireDate": "2022-01-10"
+    },
+    {
+      "id": 5,
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@company.com",
+      "role": "Financial Analyst",
+      "department": "Finance",
+      "status": "active",
+      "salary": 85000,
+      "hireDate": "2019-05-22"
+    }
+  ],
+  "departments": [
+    { "id": 1, "name": "Engineering", "head": "John Smith" },
+    { "id": 2, "name": "HR", "head": "Maria Garcia" },
+    { "id": 3, "name": "Sales", "head": "David Chen" },
+    { "id": 4, "name": "Finance", "head": "Sarah Wilson" }
+  ],
+  "users": [
+    { "id": 1, "username": "admin", "role": "admin", "name": "System Admin" },
+    { "id": 2, "username": "manager", "role": "manager", "name": "Team Manager" },
+    { "id": 3, "username": "viewer", "role": "viewer", "name": "Read Only User" }
+  ]
+}
