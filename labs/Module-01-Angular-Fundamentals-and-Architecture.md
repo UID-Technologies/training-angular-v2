@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 1 — Angular Fundamentals & Architecture |
 | **Duration** | 60 minutes |
-| **Presentation** | `presentations/Module-1-Angular-Fundamentals-and-Architecture.pdf` |
+| **Presentation** | `presentations/Module-01-Angular-Fundamentals-and-Architecture.pdf` |
 
 ---
 

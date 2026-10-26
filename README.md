@@ -178,15 +178,15 @@ All 16 modules include a **presentation** (PDF) and a **hands-on lab** (Markdown
 
 | # | Module | Presentation | Lab | Day |
 |---|--------|-------------|-----|-----|
-| 1 | Angular Fundamentals & Architecture | [PDF](presentations/Module-1-Angular-Fundamentals-and-Architecture.pdf) | [Lab](labs/Module-01-Angular-Fundamentals-and-Architecture.md) | 1 |
-| 2 | Components & Templates | [PDF](presentations/Module-2-Components-and-Templates.pdf) | [Lab](labs/Module-02-Components-and-Templates.md) | 1 |
-| 3 | Modern Angular Control Flow | [PDF](presentations/Module-3-Modern-Angular-Control-Flow.pdf) | [Lab](labs/Module-03-Modern-Angular-Control-Flow.md) | 1 |
-| 4 | Directives & Pipes | [PDF](presentations/Module-4-Directives-and-Pipes.pdf) | [Lab](labs/Module-04-Directives-and-Pipes.md) | 2 |
-| 5 | Signals & Angular Reactivity | [PDF](presentations/Module-5-Signals-and-Angular-Reactivity.pdf) | [Lab](labs/Module-05-Signals-and-Angular-Reactivity.md) | 2 |
-| 6 | Component Communication & Content Projection | [PDF](presentations/Module-6-Component-Communication-and-Content-Projection.pdf) | [Lab](labs/Module-06-Component-Communication-and-Content-Projection.md) | 2 |
-| 7 | Dependency Injection & Services | [PDF](presentations/Module-7-Dependency-Injection-and-Services.pdf) | [Lab](labs/Module-07-Dependency-Injection-and-Services.md) | 3 |
-| 8 | Forms in Angular | [PDF](presentations/Module-8-Forms-in-Angular.pdf) | [Lab](labs/Module-08-Forms-in-Angular.md) | 3 |
-| 9 | RxJS Essentials for Angular | [PDF](presentations/Module-9-RxJS-Essentials-for-Angular.pdf) | [Lab](labs/Module-09-RxJS-Essentials-for-Angular.md) | 4 |
+| 1 | Angular Fundamentals & Architecture | [PDF](presentations/Module-01-Angular-Fundamentals-and-Architecture.pdf) | [Lab](labs/Module-01-Angular-Fundamentals-and-Architecture.md) | 1 |
+| 2 | Components & Templates | [PDF](presentations/Module-02-Components-and-Templates.pdf) | [Lab](labs/Module-02-Components-and-Templates.md) | 1 |
+| 3 | Modern Angular Control Flow | [PDF](presentations/Module-03-Modern-Angular-Control-Flow.pdf) | [Lab](labs/Module-03-Modern-Angular-Control-Flow.md) | 1 |
+| 4 | Directives & Pipes | [PDF](presentations/Module-04-Directives-and-Pipes.pdf) | [Lab](labs/Module-04-Directives-and-Pipes.md) | 2 |
+| 5 | Signals & Angular Reactivity | [PDF](presentations/Module-05-Signals-and-Angular-Reactivity.pdf) | [Lab](labs/Module-05-Signals-and-Angular-Reactivity.md) | 2 |
+| 6 | Component Communication & Content Projection | [PDF](presentations/Module-06-Component-Communication-and-Content-Projection.pdf) | [Lab](labs/Module-06-Component-Communication-and-Content-Projection.md) | 2 |
+| 7 | Dependency Injection & Services | [PDF](presentations/Module-07-Dependency-Injection-and-Services.pdf) | [Lab](labs/Module-07-Dependency-Injection-and-Services.md) | 3 |
+| 8 | Forms in Angular | [PDF](presentations/Module-08-Forms-in-Angular.pdf) | [Lab](labs/Module-08-Forms-in-Angular.md) | 3 |
+| 9 | RxJS Essentials for Angular | [PDF](presentations/Module-09-RxJS-Essentials-for-Angular.pdf) | [Lab](labs/Module-09-RxJS-Essentials-for-Angular.md) | 4 |
 | 10 | Routing & Navigation | [PDF](presentations/Module-10-Routing-and-Navigation.pdf) | [Lab](labs/Module-10-Routing-and-Navigation.md) | 4 |
 | 11 | Route Guards & Data Resolution | [PDF](presentations/Module-11-Route-Guards-and-Data-Resolution.pdf) | [Lab](labs/Module-11-Route-Guards-and-Data-Resolution.md) | 4 |
 | 12 | HTTP Communication & API Integration | [PDF](presentations/Module-12-HTTP-Communication-and-API-Integration.pdf) | [Lab](labs/Module-12-HTTP-Communication-and-API-Integration.md) | 5 |

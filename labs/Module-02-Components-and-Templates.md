@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 2 — Components & Templates |
 | **Duration** | 90 minutes |
-| **Presentation** | `presentations/Module-2-Components-and-Templates.pdf` |
+| **Presentation** | `presentations/Module-02-Components-and-Templates.pdf` |
 | **Prerequisites** | Lab 01 complete |
 
 ---

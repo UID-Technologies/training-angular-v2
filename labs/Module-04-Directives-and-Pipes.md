@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 4 — Directives & Pipes |
 | **Duration** | 75 minutes |
-| **Presentation** | `presentations/Module-4-Directives-and-Pipes.pdf` |
+| **Presentation** | `presentations/Module-04-Directives-and-Pipes.pdf` |
 | **Prerequisites** | Day 1 labs complete |
 
 ---

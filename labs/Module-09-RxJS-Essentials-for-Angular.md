@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 9 — RxJS Essentials for Angular |
 | **Duration** | 75 minutes |
-| **Presentation** | `presentations/Module-9-RxJS-Essentials-for-Angular.pdf` |
+| **Presentation** | `presentations/Module-09-RxJS-Essentials-for-Angular.pdf` |
 | **Prerequisites** | Day 3 labs complete |
 
 ---

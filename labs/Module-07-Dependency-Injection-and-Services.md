@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 7 — Dependency Injection & Services |
 | **Duration** | 75 minutes |
-| **Presentation** | `presentations/Module-7-Dependency-Injection-and-Services.pdf` |
+| **Presentation** | `presentations/Module-07-Dependency-Injection-and-Services.pdf` |
 | **Prerequisites** | Day 2 labs complete |
 
 ---

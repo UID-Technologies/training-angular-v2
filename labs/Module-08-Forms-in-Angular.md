@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 8 — Forms in Angular |
 | **Duration** | 120 minutes |
-| **Presentation** | `presentations/Module-8-Forms-in-Angular.pdf` |
+| **Presentation** | `presentations/Module-08-Forms-in-Angular.pdf` |
 | **Prerequisites** | Lab 07 complete |
 
 ---

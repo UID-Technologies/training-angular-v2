@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 3 — Modern Angular Control Flow |
 | **Duration** | 60 minutes |
-| **Presentation** | `presentations/Module-3-Modern-Angular-Control-Flow.pdf` |
+| **Presentation** | `presentations/Module-03-Modern-Angular-Control-Flow.pdf` |
 | **Prerequisites** | Labs 01–02 complete |
 
 ---

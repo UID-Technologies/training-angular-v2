@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 5 — Signals & Angular Reactivity |
 | **Duration** | 90 minutes |
-| **Presentation** | `presentations/Module-5-Signals-and-Angular-Reactivity.pdf` |
+| **Presentation** | `presentations/Module-05-Signals-and-Angular-Reactivity.pdf` |
 | **Prerequisites** | Labs 01–04 complete |
 
 ---
